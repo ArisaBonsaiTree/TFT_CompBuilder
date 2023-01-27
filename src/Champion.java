@@ -1,5 +1,4 @@
 import java.util.List;
-
 public class Champion {
     private String name;
     private int cost;
